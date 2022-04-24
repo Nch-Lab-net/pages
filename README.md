@@ -12,4 +12,4 @@
 
 # サイトマップ
 
-- [Home](pages.nchlab.net)
+- [Home](http://pages.nchlab.net)
