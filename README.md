@@ -8,4 +8,4 @@
 - [YouTube](https://www.youtube.com/channel/UCHh3sU1-ILivTzyj8Z14X7w)
 - [Booth](https://nch-mosfet.booth.pm/)
 - [GitHub](https://github.com/Nch-MOSFET)
-- [Site](https://pages.nchlab.net)
+- [Site](http://pages.nchlab.net)
