@@ -13,9 +13,14 @@
 
 # サイトマップ
 
-- [Home](http://pages.nchlab.net)  
-  トップページ
-  - [Arduino](./Arduino)  
-  Arduino関係のページ
-    - [ref](./Arduino/ref)  
-    Arduino公式リファレンスを頑張って翻訳しています
+- [Arduino](./Arduino)  
+Arduino関係のページ
+  - [ref](./Arduino/ref)  
+  Arduino公式リファレンスを頑張って翻訳しています
+    - [pinMode](./Arduino/ref/pinMode)
+    pinMode関数について知ることができます
+    - [digitalRead](./Arduino/ref/pinMode/digitalRead)
+    digitalRead関数について知ることができます
+    - [digitalWrite](./Arduino/ref/pinMode/digitalWrite)
+    digitalWrite関数について知ることができます
+    
