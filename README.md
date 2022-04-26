@@ -19,8 +19,8 @@ Arduino関係のページ
   Arduino公式リファレンスを頑張って翻訳しています
     - [pinMode](./Arduino/ref/pinMode)  
     pinMode関数について知ることができます
-    - [digitalRead](./Arduino/ref/pinMode/digitalRead)  
+    - [digitalRead](./Arduino/ref/digitalRead)  
     digitalRead関数について知ることができます
-    - [digitalWrite](./Arduino/ref/pinMode/digitalWrite)  
+    - [digitalWrite](./Arduino/ref/digitalWrite)  
     digitalWrite関数について知ることができます
     
