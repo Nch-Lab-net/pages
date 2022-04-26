@@ -9,7 +9,7 @@
 - [Booth](https://nch-mosfet.booth.pm/)
 - [GitHub](https://github.com/Nch-MOSFET)
 - [Qiita](https://qiita.com/Nch_MOSFET)
-- [Site](http://pages.nchlab.net)
+- [Web Site](http://pages.nchlab.net)
 
 # サイトマップ
 
