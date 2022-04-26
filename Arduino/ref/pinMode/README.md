@@ -28,20 +28,20 @@ Arduino 1.0.1以降では第二引数を`INPUT_PULLUP` とすることでプル�
 
 ```cpp
 void setup() {
-  pinMode(13, OUTPUT);  //13番ピンをOUTPUTに設定:
+  pinMode(13, OUTPUT);  //  13番ピンをOUTPUTに設定:
 }
 
 void loop() {
-  digitaiWrite(13, HIGH);  //13番ピンをHIGHに設定:
-  delay(1000);             //1000ミリ秒待つ:
-  digitaiWrite(13,  LOW);  //13番ピンを LOWに設定:
-  delay(1000);             //1000ミリ秒待つ:
+  digitaiWrite(13, HIGH);  //  13番ピンをHIGHに設定
+  delay(1000);             //  1000ミリ秒待つ
+  digitaiWrite(13,  LOW);  //  13番ピンを LOWに設定
+  delay(1000);             //  1000ミリ秒待つ
 }
 ```
 
 ## 注意点
 
-アナログ入力ピンは`A0`や`A1`といった形でデジタルピンとして使用できます
+アナログ入力ピンは、A0、A1などという形でデジタルピンとして使用できます。例外は、アナログ入力としてのみ使用できるArduino Nano、Pro Mini、およびMiniのA6およびA7ピンです。
 
 ## 関連記事
 
