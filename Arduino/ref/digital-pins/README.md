@@ -38,9 +38,9 @@ Arduinoピンの短絡、あるいは大電流を流そうとすると、ピン�
 
 # 関連
 
-[pinMode](./pinMode)  
-[digitalWrite](./digitalWrite)  
-[digitalRead](./digitalRead)  
+[pinMode](./../pinMode)  
+[digitalWrite](./../digitalWrite)  
+[digitalRead](./../digitalRead)  
 
 # 出典
 
