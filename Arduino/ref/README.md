@@ -6,12 +6,17 @@ Arduinoの各種関数の日本語リファレンス
 
 [Arduino公式ページ](https://www.arduino.cc/reference/en/)に記載があるものを標準関数としています
 
-## **Digital I/O**
+## **デジタル入出力**
 
 [pinMode()](./pinMode)  
 [digitalRead()](./digitalRead)  
 [digitalWrite()](./digitalWrite)
 
+## **アナログ入出力**
+
+[analogReference()](./analogReference)  
+[analogRead()](./analogRead)  
+[analogWrite()](./analogWrite)
 
 # 出典
 
