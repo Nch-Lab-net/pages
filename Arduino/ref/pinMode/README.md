@@ -46,3 +46,9 @@ void loop() {
 ## 関連記事
 
 [デジタルピンの説明](./../digital-pins)
+
+# 出典
+
+このページは[Arduino公式のページ](https://www.arduino.cc/reference/en/language/functions/digital-io/pinmode/)を翻訳したものです（一部意訳を含みます）
+
+[一覧に戻る](http://pages.nchlab.net/Arduino/ref/)
