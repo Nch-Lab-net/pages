@@ -21,3 +21,6 @@ Arduinoの各種関数の日本語リファレンス
 # 出典
 
 このページは[Arduino公式のページ](https://arduino.cc/reference/en/)を翻訳したものです（一部意訳を含みます）
+
+[一覧に戻る](http://pages.nchlab.net/Arduino/ref/)  
+[トップページに戻る](http://pages.nchlab.net/)
