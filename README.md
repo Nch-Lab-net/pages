@@ -20,4 +20,5 @@ Arduino関係のページ
     - [pinMode()](./Arduino/ref/pinMode/)
     - [digitalRead()](./Arduino/ref/digitalRead/)
     - [digitalWrite()](./Arduino/ref/digitalWrite/)
+    - [analogReference()](./Arduino/ref/analogReference/)
     
