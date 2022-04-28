@@ -17,10 +17,12 @@
 Arduino関係のページ
   - [ref](./Arduino/ref)  
   Arduino公式リファレンスを頑張って翻訳しています。このディレクトリ配下に各種関数に関するドキュメントを掲載します
-    - [pinMode()](./Arduino/ref/pinMode/)
-    - [digitalRead()](./Arduino/ref/digitalRead/)
-    - [digitalWrite()](./Arduino/ref/digitalWrite/)
-    - [analogReference()](./Arduino/ref/analogReference/)
-    - [analogRead()](./Arduino/ref/analogRead/)
-    - [analogWrite()](./Arduino/ref/analogWrite/)
+    - デジタルI/O
+ 　　   - [pinMode()](./Arduino/ref/pinMode/)
+ 　　   - [digitalRead()](./Arduino/ref/digitalRead/)
+ 　　   - [digitalWrite()](./Arduino/ref/digitalWrite/)
+    - アナログI/O
+ 　　   - [analogReference()](./Arduino/ref/analogReference/)
+ 　　   - [analogRead()](./Arduino/ref/analogRead/)
+ 　　   - [analogWrite()](./Arduino/ref/analogWrite/)
     
