@@ -46,5 +46,5 @@ Arduinoピンの短絡、あるいは大電流を流そうとすると、ピン�
 
 このページは[Arduino公式のページ](https://docs.arduino.cc/learn/microcontrollers/digital-pins)を翻訳したものです（一部意訳を含みます）
 
-[一覧に戻る](http://pages.nchlab.net/Arduino/ref/)　　
+[一覧に戻る](http://pages.nchlab.net/Arduino/ref/)  
 [トップページに戻る](http://pages.nchlab.net/)
