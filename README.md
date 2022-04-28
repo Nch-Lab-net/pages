@@ -21,4 +21,6 @@ Arduino関係のページ
     - [digitalRead()](./Arduino/ref/digitalRead/)
     - [digitalWrite()](./Arduino/ref/digitalWrite/)
     - [analogReference()](./Arduino/ref/analogReference/)
+    - [analogRead()](./Arduino/ref/analogRead/)
+    - [analogWrite()](./Arduino/ref/analogWrite/)
     
