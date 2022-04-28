@@ -8,15 +8,15 @@ Arduinoの各種関数の日本語リファレンス
 
 ## **デジタル入出力**
 
-[pinMode()](./pinMode)  
-[digitalRead()](./digitalRead)  
-[digitalWrite()](./digitalWrite)
+[pinMode()](./digital-io/pinMode)  
+[digitalRead()](./digital-io/digitalRead)  
+[digitalWrite()](./digital-io/digitalWrite)
 
 ## **アナログ入出力**
 
-[analogReference()](./analogReference)  
-[analogRead()](./analogRead)  
-[analogWrite()](./analogWrite)
+[analogReference()](./analog-io/analogReference)  
+[analogRead()](./analog-io/analogRead)  
+[analogWrite()](./analog-io/analogWrite)
 
 # 出典
 
