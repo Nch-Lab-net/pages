@@ -39,11 +39,25 @@ ATmegaベースのボード（UNO、Nano、Mini、Mega）では、アナログ�
 
 # サンプルコード
 
+`analogPin`の電圧を読み取り、それをシリアルモニタに表示します
 
+```cpp
+int analogPin = A3; // A3ピンに可変抵抗を接続
+int val = 0;  // 読み取った値を格納する変数
+
+void setup() {
+  Serial.begin(9600);           // シリアル通信のセットアップ
+}
+
+void loop() {
+  val = analogRead(analogPin);  // 入力ピンを読み取る
+  Serial.println(val);          // 値をシリアルモニタに出力
+}
+```
 
 # 注意点
 
-
+アナログ入力ピンに何も接続されていない場合、`analogRead()`が返す値は、様々な要因（他のアナログ入力の値、ボードに手がどれだけ近いか、など）に応じて変動することになります。
 
 # 出典
 
