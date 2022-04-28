@@ -19,7 +19,7 @@ Arduino関係のページ
   Arduino公式リファレンスを頑張って翻訳しています。このディレクトリ配下に各種関数に関するドキュメントを掲載します
     - デジタルI/O
       - [pinMode()](./Arduino/ref/pinMode/)
-      - [digitalRead()](./Arduino/ref/digitalRead/
+      - [digitalRead()](./Arduino/ref/digitalRead/)
       - [digitalWrite()](./Arduino/ref/digitalWrite/)
     - アナログI/O
       - [analogReference()](./Arduino/ref/analogReference/)
