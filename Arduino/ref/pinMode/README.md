@@ -28,7 +28,7 @@ Arduino 1.0.1以降では第二引数を`INPUT_PULLUP` とすることでプル�
 
 ```cpp
 void setup() {
-  pinMode(13, OUTPUT);  //  13番ピンをOUTPUTに設定:
+  pinMode(13, OUTPUT);  //  13番ピンをOUTPUTに設定
 }
 
 void loop() {
