@@ -17,12 +17,4 @@
 Arduino関係のページ
   - [ref](./Arduino/ref)  
   Arduino公式リファレンスを頑張って翻訳しています。このディレクトリ配下に各種関数に関するドキュメントを掲載します
-    - デジタルI/O
-      - [pinMode()](./Arduino/ref/digital-io/pinMode/)
-      - [digitalRead()](./Arduino/ref/digital-io/digitalRead/)
-      - [digitalWrite()](./Arduino/ref/digital-io/digitalWrite/)
-    - アナログI/O
-      - [analogReference()](./Arduino/ref/analog-io/analogReference/)
-      - [analogRead()](./Arduino/ref/analog-io/analogRead/)
-      - [analogWrite()](./Arduino/ref/analog-io/analogWrite/)
     
