@@ -11,6 +11,8 @@
 - [Qiita](https://qiita.com/Nch_MOSFET)
 - [Web Site](http://pages.nchlab.net)
 
+- [自己紹介（プロフィール）](./prof)
+
 # サイトマップ
 
 - [Arduino](./Arduino)  
