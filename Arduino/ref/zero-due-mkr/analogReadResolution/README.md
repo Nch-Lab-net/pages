@@ -68,7 +68,7 @@ void loop() {
 
 # 出典
 
-このページは[Arduino公式のページ]()を翻訳したものです（一部意訳を含みます）
+このページは[Arduino公式のページ](https://www.arduino.cc/reference/en/language/functions/zero-due-mkr-family/analogreadresolution/)を翻訳したものです（一部意訳を含みます）
 
 [一覧に戻る](http://pages.nchlab.net/Arduino/ref/)  
 [トップページに戻る](http://pages.nchlab.net/)
