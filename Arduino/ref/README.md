@@ -23,6 +23,11 @@ Arduinoの各種関数の日本語リファレンス
 [analogReadResolution()](./zero-due-mkr/analogReadResolution)  
 [analogWriteResolution()](./zero-due-mkr/analogWriteResolution)
 
+## **高度な入出力**
+
+[tone()](./advanced-io/tone)  
+
+
 # 出典
 
 このページは[Arduino公式のページ](https://arduino.cc/reference/en/)を翻訳したものです（一部意訳を含みます）
