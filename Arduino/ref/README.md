@@ -26,7 +26,7 @@ Arduinoの各種関数の日本語リファレンス
 ## **高度な入出力**
 
 [tone()](./advanced-io/tone)  
-
+[notone()](.advance-io/notone)  
 
 # 出典
 
