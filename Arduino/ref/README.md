@@ -18,6 +18,11 @@ Arduinoの各種関数の日本語リファレンス
 [analogRead()](./analog-io/analogRead)  
 [analogWrite()](./analog-io/analogWrite)
 
+## **Zero、Due、MKRファミリー**
+
+[analogReadResolution()](./zero-due-mkr/analogReadResolution)  
+[analogWriteResolution()](./zero-due-mkr/analogWriteResolution)
+
 # 出典
 
 このページは[Arduino公式のページ](https://arduino.cc/reference/en/)を翻訳したものです（一部意訳を含みます）
