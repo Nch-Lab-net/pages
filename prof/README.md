@@ -11,5 +11,8 @@
 
 ## 技術
 
-Arduinoを少しだけ扱えます。Arduinoの関数に関する理解を深めるため[公式ドキュメント](https://www.arduino.cc/reference/en/)を翻訳しサイトにまとめる活動をしています。[詳しくはこちら](https://github.com/Nch-MOSFET/NchLab.net/tree/main/Arduino/ref)
+Arduinoを少しだけ扱えます。Arduinoの関数に関する理解を深めるため[公式ドキュメント](https://www.arduino.cc/reference/en/)を翻訳しサイトにまとめる活動をしています。[詳しくはこちら](../Arduino/ref)
 
+## 関連リンク等
+
+[トップページ](../README.md#各種リンク)を御覧ください
