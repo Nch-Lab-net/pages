@@ -11,7 +11,7 @@
 
 ## 技術
 
-Arduinoを少しだけ扱えます。Arduinoの関数に関する理解を深めるため[公式ドキュメント](https://www.arduino.cc/reference/en/)を翻訳しサイトにまとめる活動をしています。[詳しくはこちら](../Arduino/ref)
+Arduinoを少しだけ扱えます。Arduinoに関する理解を深めるため[公式ドキュメント](https://www.arduino.cc/reference/en/)を翻訳しサイトにまとめる活動をしています。[詳しくはこちら](../Arduino/ref)
 
 ## 関連リンク等
 
