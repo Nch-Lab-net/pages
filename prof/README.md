@@ -14,7 +14,8 @@
 Arduinoを少しだけ扱えます。Arduinoに関する理解を深めるため[公式ドキュメント](https://www.arduino.cc/reference/en/)を翻訳しサイトにまとめる活動をしています。[詳しくはこちら](../Arduino/ref)
 
 代表作：Digisparkベースのプログラマブルキーボード  
-[Booth](https://nch-mosfet.booth.pm/items/3342532)にて販売しています。お陰様で総販売数10個到達しました
+[Booth](https://nch-mosfet.booth.pm/items/3342532)にて販売しています。お陰様で総販売数10個到達しました  
+詳細に関しての解説動画を今後公開する予定です。しばらくお待ち下さい
 
 ## 関連リンク等
 
