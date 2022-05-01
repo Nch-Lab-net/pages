@@ -12,7 +12,7 @@ Arduino関係のページ
   僕のプロフィールです。ご査収ください
 - [project](./project)  
   僕の制作物やそれに関することを色々まとめています。随時追加
-  - [keyboard](./project/keyboard)
+  - [keyboard](./project/keyboard)  
     自作キーボードに関するお話
 
 # 外部リンク
