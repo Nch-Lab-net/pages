@@ -2,16 +2,6 @@
 
 ここは[Nch MOSFET](https://twitter.com/Nch_MOSFET)のWebサイトです。ただし仮
 
-# 各種リンク
-
-- [Twitter](https://twitter.com/Nch_MOSFET)
-- [YouTube](https://www.youtube.com/channel/UCHh3sU1-ILivTzyj8Z14X7w)
-- [Booth](https://nch-mosfet.booth.pm/)
-- [GitHub](https://github.com/Nch-MOSFET)
-- [Qiita](https://qiita.com/Nch_MOSFET)
-- [Web Site](http://pages.nchlab.net)
-- [自己紹介（プロフィール）](./prof)
-
 # サイトマップ
 
 - [Arduino](./Arduino)  
@@ -24,3 +14,11 @@ Arduino関係のページ
   僕の制作物やそれに関することを色々まとめています。随時追加
   - [keyboard](./project/keyboard)
     自作キーボードに関するお話
+
+# 外部リンク
+
+- [Twitter](https://twitter.com/Nch_MOSFET)
+- [YouTube](https://www.youtube.com/channel/UCHh3sU1-ILivTzyj8Z14X7w)
+- [Booth](https://nch-mosfet.booth.pm/)
+- [GitHub](https://github.com/Nch-MOSFET)
+- [Qiita](https://qiita.com/Nch_MOSFET)
