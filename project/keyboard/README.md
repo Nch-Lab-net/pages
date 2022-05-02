@@ -26,7 +26,7 @@
 
 コネクタを変えたいならATMega-32U4を直接基板に乗せてUSB-C端子なりを乗せればいいんですが、チョット面倒。そう思ってなにか良いものはないかと探してみたらありました。それがSeeed Xiao RP2040です  
 ![](https://files.seeedstudio.com/wiki/XIAO-RP2040/img/xinfront.jpg)  
-![](./img/seeedXiaoRP2040.jpg)  
+![](https://files.seeedstudio.com/wiki/XIAO-RP2040/img/xinpin.jpg)  
 画像はスイッチサイエンスから
 
 見ての通り、搭載コネクタはUSB-C、そして本体はとても小さい。値段もそこまで高くはない  
