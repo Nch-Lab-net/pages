@@ -17,23 +17,36 @@
 
 # パラメータ
 
-
+`pin`：パルスを読み取りたいArduinoのピンの番号。型は`int`  
+`value`：読み取るパルスの種類（`HIGH`または`LOW`）。型は`int`  
+`timeout`（オプション）：パルスが開始されるまでの秒数（マイクロ秒）。型は`unsigned int`  
 
 # 返り値
 
-
+パルスの長さ（マイクロ秒単位），またはタイムアウト前にパルスが開始されなかった場合は0。型は`unsigned long`  
 
 # サンプルコード
 
-
+この例では、7番ピンのパルスの継続時間を送信します
 
 ```cpp
+int pin = 7;
+unsigned long duration;
 
+void setup() {
+  Serial.begin(9600);
+  pinMode(pin, INPUT);
+}
+
+void loop() {
+  duration = pulseInLong(pin, HIGH);
+  Serial.println(duration);
+}
 ```
 
 # 注意点
 
-
+この関数は、`micros()`に依存しているので、`noInterrupts()`が使用されているコード内では使用できません
 
 # 出典
 
