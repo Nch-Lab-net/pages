@@ -29,6 +29,8 @@ Arduinoの各種関数の日本語リファレンス
 [noTone()](./advanced-io/notone)  
 [pulseIn()](./advanced-io/pulseIn)  
 [pulseInLong()](./advanced-io/pulseInLong)  
+[shiftIn()](./advanced-io/shiftIn)  
+[shiftOut()](./advanced-io/shiftOut)  
 
 # 出典
 
