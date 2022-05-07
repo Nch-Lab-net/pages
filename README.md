@@ -1,5 +1,3 @@
-<link rel="icon" href="/favicon.ico">
-
 # Welcome to Nch-Lab's Website!
 
 ここは[Nch MOSFET](https://twitter.com/Nch_MOSFET)のWebサイトです。ただし仮
@@ -16,6 +14,8 @@ Arduino関係のページ
   僕の制作物やそれに関することを色々まとめています。随時追加
   - [keyboard](./project/keyboard)  
     自作キーボードに関するお話
+- [anounce](./anounce)　　
+  広報用に使用します。なにかあり次第更新します
 
 # 外部リンク
 
