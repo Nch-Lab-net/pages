@@ -5,18 +5,12 @@
 # サイトマップ
 
 **root**  
-┣━━[Arduino](./Arduino)  
-┃　　Arduino関係のページ  
-┃　　　┗[ref](./Arduino/ref)  
-┃　　Arduino公式リファレンスを翻訳しています。このディレクトリ配下に各種関数に関するドキュメントを掲載します  
-┣━━[プロフィール](./prof)  
-┃　  僕のプロフィールです。ご査収ください  
-┣━━[project](./project)  
-┃  　僕の制作物やそれに関することを色々まとめています。随時追加  
-┃　　　┗[keyboard](./project/keyboard)  
-┃　　　　自作キーボードに関するお話  
-┗━━[anounce](./anounce)  
-  　　広報用に使用します。なにかあり次第更新します  
+┣━[Arduino](./Arduino)  
+┃　　┗━[ref](./Arduino/ref)  
+┣━[prof](./prof)  
+┣━[project](./project)  
+┃　　┗━[keyboard](./project/keyboard)  
+┗━[anounce](./anounce)  
 
 <!-- コピペ用 -->
 <!--
