@@ -14,7 +14,7 @@ Arduino関係のページ
   僕の制作物やそれに関することを色々まとめています。随時追加
   - [keyboard](./project/keyboard)  
     自作キーボードに関するお話
-- [anounce](./anounce)　　
+- [anounce](./anounce)  
   広報用に使用します。なにかあり次第更新します
 
 # 外部リンク
