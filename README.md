@@ -24,3 +24,4 @@ Arduino関係のページ
 - [Booth](https://nch-mosfet.booth.pm/)
 - [GitHub](https://github.com/Nch-MOSFET)
 - [Qiita](https://qiita.com/Nch_MOSFET)
+- [Discordサーバ](https://discord.gg/r3HeMB2B6a)
