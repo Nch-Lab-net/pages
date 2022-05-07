@@ -4,7 +4,7 @@
 
 # サイトマップ
 
-**root**
+**root**  
 ┣━━[Arduino](./Arduino)  
 ┃　　Arduino関係のページ  
 ┃　　　┗[ref](./Arduino/ref)  
