@@ -32,6 +32,13 @@ Arduinoの各種関数の日本語リファレンス
 [shiftIn()](./advanced-io/shiftIn)  
 [shiftOut()](./advanced-io/shiftOut)  
 
+## **時間**
+
+[delay()](./time/delay)  
+[delayMicrosecond()](./time/delayMicrosecond)  
+[micros()](./time/micros)  
+[millis()](./time/millis)  
+
 # 出典
 
 このページは[Arduino公式のページ](https://arduino.cc/reference/en/)を翻訳したものです（一部意訳を含みます）
