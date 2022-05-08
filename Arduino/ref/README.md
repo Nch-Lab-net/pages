@@ -35,7 +35,7 @@ Arduinoの各種関数の日本語リファレンス
 ## **時間**
 
 [delay()](./time/delay)  
-[delayMicrosecond()](./time/delayMicrosecond)  
+[delayMicroseconds()](./time/delayMicroseconds)  
 [micros()](./time/micros)  
 [millis()](./time/millis)  
 
