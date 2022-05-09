@@ -27,7 +27,7 @@
 
 # サンプルコード
 
-付属の回路は、[74HC595シフトレジスタの制御のチュートリアル](https://www.arduino.cc/reference/en/language/functions/advanced-io/shiftout/#:~:text=tutorial%20on%20controlling%20a%2074HC595%20shift%20register)をご覧ください。
+回路については、[74HC595シフトレジスタの制御のチュートリアル](https://www.arduino.cc/reference/en/language/functions/advanced-io/shiftout/#:~:text=tutorial%20on%20controlling%20a%2074HC595%20shift%20register)をご覧ください。
 
 ```cpp
 //**************************************************************//
