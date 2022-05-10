@@ -7,10 +7,17 @@
 [**pages.nchlab.net**](https://pages.nchlab.net)  
 　┣━[/Arduino](./Arduino)  
 　┃　　┗━[/ref](./Arduino/ref)  
+　┃  
 　┣━[/prof](./prof)  
+　┃  
 　┣━[/project](./project)  
 　┃　　┗━[/keyboard](./project/keyboard)  
-　┗━[/anounce](./anounce)  
+　┃  
+　┣━[/anounce](./anounce)  
+　┃  
+　┗━[/bitcoin](./bitcoin)  
+　　　　┗━[/nicehash](./bitcoin/nicehash)  
+　　　　　　　┗━[/calc](./bitcoin/nicehash/calc)  
 
 <!-- コピペ用 -->
 <!--
