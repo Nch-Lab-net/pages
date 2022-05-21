@@ -18,7 +18,7 @@
 [**docs.nchlab.net**](https://docs.nchlab.net)  
 　┗━Arduino  
 　　　　┗━/ref  
-    　　　　[refブランチ](https://github.com/Nch-Lab/docs/tree/ref/Arduino/ref)でページ作成中
+　　　　　　[refブランチ](https://github.com/Nch-Lab/docs/tree/ref/Arduino/ref)でページ作成中
 
 <!-- コピペ用 -->
 <!--
