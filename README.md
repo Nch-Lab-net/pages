@@ -10,10 +10,7 @@
 　┣━[/prof](./prof)  
 　┣━[/project](./project)  
 　┃　　┗━[/keyboard](./project/keyboard)  
-　┣━[/anounce](./anounce)  
-　┗━[/bitcoin](./bitcoin)  
-　　　　┗━[/nicehash](./bitcoin/nicehash)  
-　　　　　　　┗━[/calc](./bitcoin/nicehash/calc)  
+　┗━[/anounce](./anounce)  
 
 [**docs.nchlab.net**](https://docs.nchlab.net)  
 　┗━Arduino  
