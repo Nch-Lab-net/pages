@@ -29,7 +29,7 @@
 
 # 外部リンク
 
-- [Twitter](https://twitter.com/Nch_MOSFET)
+- <a href="https://twitter.com/Nch_MOSFET" target="_blank" rel="noopener noreferrer">Twitter</a>
 - [YouTube](https://www.youtube.com/channel/UCHh3sU1-ILivTzyj8Z14X7w)
 - [Booth](https://nch-mosfet.booth.pm/)
 - [GitHub](https://github.com/Nch-MOSFET)
