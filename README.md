@@ -1,6 +1,6 @@
 # Welcome to Nch-Lab's Website!
 
-ここは[Nch MOSFET](https://twitter.com/Nch_MOSFET)のWebサイトです。ただし仮
+ここは<a href="https://twitter.com/Nch_MOSFET" target="_blank" rel="noopener noreferrer">Nch MOSFET</a>のWebサイトです。ただし仮
 
 # サイトマップ
 
@@ -29,9 +29,11 @@
 
 # 外部リンク
 
+すべて別タブで開きます
+
 - <a href="https://twitter.com/Nch_MOSFET" target="_blank" rel="noopener noreferrer">Twitter</a>
-- [YouTube](https://www.youtube.com/channel/UCHh3sU1-ILivTzyj8Z14X7w)
-- [Booth](https://nch-mosfet.booth.pm/)
-- [GitHub](https://github.com/Nch-MOSFET)
-- [Qiita](https://qiita.com/Nch_MOSFET)
-- [Discordサーバ](https://discord.gg/r3HeMB2B6a)
+- <a href="https://www.youtube.com/channel/UCHh3sU1-ILivTzyj8Z14X7w" target="_blank" rel="noopener noreferrer">YouTube</a>
+- <a href="https://nch-mosfet.booth.pm/" target="_blank" rel="noopener noreferrer">Booth</a>
+- <a href="https://github.com/Nch-MOSFET" target="_blank" rel="noopener noreferrer">GitHub</a>
+- <a href="https://qiita.com/Nch_MOSFET" target="_blank" rel="noopener noreferrer">Qiita</a>
+- <a href="https://discord.gg/r3HeMB2B6a" target="_blank" rel="noopener noreferrer">Discordサーバ</a>
