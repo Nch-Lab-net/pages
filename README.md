@@ -7,6 +7,8 @@
 [**pages.nchlab.net**](https://pages.nchlab.net)  
 　┣━[/Arduino](./Arduino)  
 　┃　　┗━[/ref](./Arduino/ref)  
+　┣━blog  
+　┃　　┗━[/index](./blog/index)  
 　┣━[/prof](./prof)  
 　┣━[/project](./project)  
 　┃　　┗━[/keyboard](./project/keyboard)  
