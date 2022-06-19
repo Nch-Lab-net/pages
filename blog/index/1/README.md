@@ -18,6 +18,6 @@ Date:2022/06/19
 
 二枚目のバイブレータの動作はこんな感じ、ちゃんと動いてくれてますね
 
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">新幹線の中で発振回路を発振させてます（非安定マルチバイブレータ） <a href="https://t.co/HD19oLQPBm">pic.twitter.com/HD19oLQPBm</a></p>&mdash; 溶けかけてるうさぎ (@_meltingrabbit) <a href="https://twitter.com/_meltingrabbit/status/1538494111967170561?ref_src=twsrc%5Etfw">June 19, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class=”twitter-tweet"><a href=”https://twitter.com/_meltingrabbit/status/1538494111967170561”></a></blockquote>
 
-https://twitter.com/_meltingrabbit/status/1538494111967170561
+
