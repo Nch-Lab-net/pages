@@ -16,8 +16,5 @@ Date:2022/06/19
 一枚目はArduino Nanoを載せる基板、二枚目は立体配線で作った非安定マルチバイブレータです  
 直線・直角配線こそ至高。これは何度でも唱えていきたい
 
-二枚目のバイブレータの動作はこんな感じ、ちゃんと動いてくれてますね
-
-<blockquote class=”twitter-tweet"><a href=”https://twitter.com/_meltingrabbit/status/1538494111967170561”></a></blockquote>
-
+二枚目のバイブレータの動作は[ツイートから](https://twitter.com/_meltingrabbit/status/1538494111967170561)、ちゃんと動いてくれてますね
 
