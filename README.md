@@ -1,6 +1,6 @@
 # Welcome to Nch-Lab's Website!
 
-ここは<a href="https://twitter.com/Nch_MOSFET" target="_blank" rel="noopener noreferrer">Nch MOSFET</a>のWebサイトです。ただし仮
+ここは<a href="https://twitter.com/Nch_MOSFET" target="_blank" rel="noopener noreferrer">Nch MOSFET</a>のWebサイトです
 
 # サイトマップ
 
