@@ -1,12 +1,14 @@
 # Welcome to Nch-Lab's Website!
 
-ここは<a href="https://twitter.com/Nch_MOSFET" target="_blank" rel="noopener noreferrer">Nch MOSFET</a>のWebサイトです。ただし仮
+ここは<a href="https://twitter.com/Nch_MOSFET" target="_blank" rel="noopener noreferrer">Nch MOSFET</a>のWebサイトです
 
 # サイトマップ
 
 [**pages.nchlab.net**](https://pages.nchlab.net)  
 　┣━[/Arduino](./Arduino)  
 　┃　　┗━[/ref](./Arduino/ref)  
+　┣━blog  
+　┃　　┗━[/index](./blog/index)  
 　┣━[/prof](./prof)  
 　┣━[/project](./project)  
 　┃　　┗━[/keyboard](./project/keyboard)  
