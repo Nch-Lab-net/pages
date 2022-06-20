@@ -30,3 +30,5 @@
 この通りに作ると遮断器の信号みたいな光り方をします
 
 僕も新幹線で発振回路動かしたい、けど新幹線に乗る機会が _nothing..._
+
+<footer><div align="right">©Nch_MOSFET</div></footer>
