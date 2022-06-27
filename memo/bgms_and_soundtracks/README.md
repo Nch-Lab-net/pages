@@ -10,7 +10,7 @@
 - [ALBIS - New Land](https://www.youtube.com/watch?v=FHBbIjjOnsY)
 - [ALBIS - Vacation Uke](https://www.youtube.com/watch?v=LHWFPWK-f4I)
 - [Kevin Macleod - Jay Jay](https://www.youtube.com/watch?v=ixy_feo-L3k)
-- [vibe Tracks - About That Oldie](https://www.youtube.com/watch?v=FqQJKeti-TE)
+- [Vibe Tracks - About That Oldie](https://www.youtube.com/watch?v=FqQJKeti-TE)
 - [Vibe Tracks - Alternative](https://www.youtube.com/watch?v=0eHo9lev7Ok)
 - [Vibe Tracks - Beat Your Competition](https://www.youtube.com/watch?v=bll5zsOGNKA)
 - [Vibe Tracks - Break You In](https://www.youtube.com/watch?v=CGd3zq_yio8)
@@ -41,9 +41,9 @@
 
 ## DOVA-SYNDROME
 
-- [painted from memory～想いは調べにのって～](https://www.youtube.com/watch?v=q7li_BpCxKA)
-- [The New World](https://www.youtube.com/watch?v=toCHE9oxtIk)
-- [Outdoor Atmosphere](https://www.youtube.com/watch?v=vZfld2zTb0U)
+- [田中芳典 - painted from memory～想いは調べにのって～](https://www.youtube.com/watch?v=q7li_BpCxKA)
+- [FLASH☆BEAT - The New World](https://www.youtube.com/watch?v=toCHE9oxtIk)
+- [brightwaltz - Outdoor Atmosphere](https://www.youtube.com/watch?v=vZfld2zTb0U)
 - [Khaim - May Not](https://www.youtube.com/watch?v=Y-yjzyPsu0I)
 - [かずち - バイバイハロー](https://www.youtube.com/watch?v=J120uD-rcnQ)
 - [まつもとたくや - 1114](https://www.youtube.com/watch?v=1EUsMfA1jik)
