@@ -10,7 +10,7 @@
 - [ALBIS - New Land](https://www.youtube.com/watch?v=FHBbIjjOnsY)
 - [ALBIS - Vacation Uke](https://www.youtube.com/watch?v=LHWFPWK-f4I)
 - [Kevin Macleod - Jay Jay](https://www.youtube.com/watch?v=ixy_feo-L3k)
-- [vibe Tracks - About That Oldie](https://www.youtube.com/watch?v=FqQJKeti-TE)
+- [Vibe Tracks - About That Oldie](https://www.youtube.com/watch?v=FqQJKeti-TE)
 - [Vibe Tracks - Alternative](https://www.youtube.com/watch?v=0eHo9lev7Ok)
 - [Vibe Tracks - Beat Your Competition](https://www.youtube.com/watch?v=bll5zsOGNKA)
 - [Vibe Tracks - Break You In](https://www.youtube.com/watch?v=CGd3zq_yio8)
