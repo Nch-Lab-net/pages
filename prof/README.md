@@ -2,16 +2,19 @@
 
 ## おなまえ
 
-李久と申します。[Twitter](https://twitter.com/Nch_MOSFET)のアカウント名からえぬちゃんと呼ばれています
+李久と申します。[Twitter](https://twitter.com/Nch_MOSFET)のアカウント名から"えぬちゃん"と呼ばれていたりいなかったり
 
-## 得意分野
+## 専門分野
 
-電気電子工学が得意です（自称）  
-強電から弱電まで幅広く取り扱います  
+主に電気回路を触っています。VVVFインバータ（パワーエレクトロニクス）から省電力デバイスまで幅広く作りたいものを作ります
+
+ハードウェア設計・組み込みソフトウェア開発・サーバ運用等趣味の範囲ながらいろいろやってます
 
 ## 技術
 
-Arduinoを少しだけ扱えます。Arduinoに関する理解を深めるため[公式ドキュメント](https://www.arduino.cc/reference/en/)を翻訳しサイトにまとめる活動をしています。[詳しくはこちら](../Arduino/ref)
+Arduinoを主に扱っています。Arduinoに関する理解を深めるため[公式ドキュメント](https://www.arduino.cc/reference/en/)を翻訳しサイトにまとめる活動をしています。[詳しくはこちら](https://github.com/Nch-Lab/docs/tree/ref/Arduino/ref)
+
+その他様々なことをまとめたドキュメントを随時作成しています
 
 代表作：Digisparkベースのプログラマブルキーボード  
 [Booth](https://nch-mosfet.booth.pm/items/3342532)にて販売しています。お陰様で総販売数10個到達しました  
