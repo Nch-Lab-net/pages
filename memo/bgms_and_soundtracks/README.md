@@ -48,10 +48,6 @@
 - [かずち - バイバイハロー](https://www.youtube.com/watch?v=J120uD-rcnQ)
 - [まつもとたくや - 1114](https://www.youtube.com/watch?v=1EUsMfA1jik)
 
-## EDM City
-
-- [TWIIG & Corvo - Airborne](https://www.youtube.com/watch?v=SsBI02WeFxg)
-
 ## NCS
 
 - [Jim Yosef - Can't Wait](https://www.youtube.com/watch?v=MqUCDzom5Xw)
