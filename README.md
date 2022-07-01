@@ -17,7 +17,8 @@
 
 [**docs.nchlab.net**](https://docs.nchlab.net)  
 - <a href="https://docs.nchlab.net/ref" target="_blank" rel="noopener noreferrer">Arduino 日本語リファレンス</a>  
-　[refブランチ](https://github.com/Nch-Lab/docs/tree/ref/Arduino/ref)でページ作成中
+　[refブランチ](https://github.com/Nch-Lab/docs/tree/ref/Arduino/ref)でページ作成中  
+- <a href="https://docs.nchlab.net/digispark/tips" target="_blank" rel="noopener noreferrer">Digispark関連の覚書</a>  
 
 <!-- コピペ用 -->
 <!--
