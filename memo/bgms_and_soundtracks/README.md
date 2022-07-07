@@ -1,73 +1,59 @@
 # BGM集
 
-## YouTube Audio Library
+| 管理番号 | レーベル | 作曲者 | 曲名 | 長さ | YouTube リンク | ライセンス |
+|----|----|----|----|----|----|----|
+| 000000 | YouTube Audio Library | Roa | Short Trip | 04:03 | [J4x_Gj4LoCU](https://www.youtube.com/watch?v=J4x_Gj4LoCU) |  |
+| 000100 | YouTube Audio Library | Spence | Unstoppable | 03:03 | [qNny1NW80Jo](https://www.youtube.com/watch?v=qNny1NW80Jo) |  |
+| 000200 | YouTube Audio Library | Unicorn Heads | Vitan Whales | 07:31 | [9Gbzk-cA4sE](https://www.youtube.com/watch?v=9Gbzk-cA4sE) |  |
+| 000201 | YouTube Audio Library | Unicorn Heads | URL Melt | 09:54 | [NjkOkkDMZBE](https://www.youtube.com/watch?v=NjkOkkDMZBE) |  |
+| 000300 | YouTUbe Audio Library | Nico Staf | Sunny Travel | 02:27 | [\_kYsndcUeUk](https://www.youtube.com/watch?v=_kYsndcUeUk) |  |
+| 000400 | YouTUbe Audio Library | ALBIS | New Land | 02:30 | [FHBbIjjOnsY](https://www.youtube.com/watch?v=FHBbIjjOnsY) |  |
+| 000401 | YouTUbe Audio Library | ALBIS | Vacation Uke | 02:03 | [LHWFPWK-f4I](https://www.youtube.com/watch?v=FHBbIjjOnsY) |  |
+| 000500 | YouTUbe Audio Library | Kevin MacLeod | jay Jay | 03:35 | [ixy_feo-L3k](https://www.youtube.com/watch?v=ixy_feo-L3k) |  |
+| 000600 | YouTUbe Audio Library | Vibe Tracks | About That Oldie | 01:54 | [FqQJKeti-TE](https://www.youtube.com/watch?v=FqQJKeti-TE) |  |
+| 000601 | YouTUbe Audio Library | Vibe Tracks | Alternative | 02:52 | [0eHo9lev7Ok](https://www.youtube.com/watch?v=0eHo9lev7Ok) |  |
+| 000602 | YouTUbe Audio Library | Vibe Tracks | Beat Your Competition | 02:53 | [bll5zsOGNKA](https://www.youtube.com/watch?v=bll5zsOGNKA) |  |
+| 000603 | YouTUbe Audio Library | Vibe Tracks | Break You In | 03:24 | [CGd3zq_yio8](https://www.youtube.com/watch?v=CGd3zq_yio8) |  |
+| 000604 | YouTUbe Audio Library | Vibe Tracks | Dutty | 02:43 | [YeHqPHl1114](https://www.youtube.com/watch?v=YeHqPHl1114) |  |
+| 000605 | YouTUbe Audio Library | Vibe Tracks | Greedy | 03:22 | [4p91vgd8tmU](https://www.youtube.com/watch?v=4p91vgd8tmU) |  |
+| 000606 | YouTUbe Audio Library | Vibe Tracks | Staccato | 03:22 | [hTeJx-S0QQk](https://www.youtube.com/watch?v=hTeJx-S0QQk) |  |
+| 000607 | YouTUbe Audio Library | Vibe Tracks | Take You Home Tonight | 03:33 | [csxS_4NGgpA](https://www.youtube.com/watch?v=csxS_4NGgpA) |  |
+| 000608 | YouTUbe Audio Library | Vibe Tracks | Universal | 04:07 | [b56V-KyT9XM](https://www.youtube.com/watch?v=b56V-KyT9XM) |  |
+| 000700 | YouTUbe Audio Library | John Deley | Bumper Tag | 02:52 | [lnGhMo5ZQvA](https://www.youtube.com/watch?v=lnGhMo5ZQvA) |  |
+| 000701 | YouTUbe Audio Library | John Deley | Blakey's Burnout | 03:07 | [0OqWEd_tr3o](https://www.youtube.com/watch?v=0OqWEd_tr3o) |  |
+| 000800 | YouTUbe Audio Library | Andrew Huang | Club | 03:41 | [GLSxpegS0MI](https://www.youtube.com/watch?v=GLSxpegS0MI) |  |
+| 000900 | YouTUbe Audio Library | MK2 | Far Away | 01:45 | [Krw642HTCgw](https://www.youtube.com/watch?v=Krw642HTCgw) |  |
+| 010000 | Vlog No Copyright Music | Fredji | Happy Life | 03:51 | [KzQiRABVARk](https://www.youtube.com/watch?v=KzQiRABVARk) |  |
+| 010100 | Vlog No Copyright Music | Tempo Fugit | Hello | 02:54 | [kD83YwiGCGI](https://www.youtube.com/watch?v=kD83YwiGCGI) |  |
+| 010200 | Vlog No Copyright Music | Erik Lund | Tokyo Sunset | 03:42 | [-jpnNRB5eTU](https://www.youtube.com/watch?v=-jpnNRB5eTU) |  |
+| 010300 | Vlog No Copyright Music | Ehrling | You And Me | 04:05 | [8HJSl7AiJNg](https://www.youtube.com/watch?v=8HJSl7AiJNg) |  |
+| 010400 | Vlog No Copyright Music | Beau Walker | Joy | 03:25 | [yTsOk3jWeLs](https://www.youtube.com/watch?v=yTsOk3jWeLs) |  |
+| 010500 | Vlog No Copyright Music | MBB | Beach | 02:02 | [bfjxyOtpvlA](https://www.youtube.com/watch?v=bfjxyOtpvlA) |  |
+| 020000 | Epidemic Sound | Waykap | Adore U | 02:54 | [dztzqxgaUD0](https://www.youtube.com/watch?v=dztzqxgaUD0) |  |
+| 020001 | Epidemic Sound | Waykap | Adore U - Inst | 02:54 | [gRblqiRda0M](https://www.youtube.com/watch?v=gRblqiRda0M) |  |
+| 020100 | Epidemic Sound | ELFL | Digital Breath | 03:39 | [V4oGVE99VJk](https://www.youtube.com/watch?v=V4oGVE99VJk) |  |
+| 030000 | DOVA-SYNDROME | 田中芳典 | painted from memory<br>\~想いは調べにのって\~ | 03:36 | [q7li_BpCxKA](https://www.youtube.com/watch?v=q7li_BpCxKA) |  |
+| 030100 | DOVA-SYNDROME | FLASH☆BEAT | The New World | 01:56 | [toCHE9oxtIk](https://www.youtube.com/watch?v=toCHE9oxtIk) |  |
+| 030200 | DOVA-SYNDROME | brightwaltz | Outdoor Atmosphere | 03:45 | [vZfld2zTb0U](https://www.youtube.com/watch?v=vZfld2zTb0U) |  |
+| 030300 | DOVA-SYNDROME | Khaim | May Not | 03:00 | [Y-yjzyPsu0I](https://www.youtube.com/watch?v=Y-yjzyPsu0I) |  |
+| 030400 | DOVA-SYNDROME | かずち | バイバイハロー | 02:30 | [J120uD-rcnQ](https://www.youtube.com/watch?v=J120uD-rcnQ) |  |
+| 030500 | DOVA-SYNDROME | まつもとたくや | 1114 | 05:01 | [1EUsMfA1jik](https://www.youtube.com/watch?v=1EUsMfA1jik) |  |
+| 040000 | No Copyright Sounds | Jim Yosef | Can't Wait | 03:27 | [MqUCDzom5Xw](https://www.youtube.com/watch?v=MqUCDzom5Xw) |  |
+| 040100 | No Copyright Sounds | Culture Code | Make Me Move | 03:17 | [vBGiFtb8Rpw](https://www.youtube.com/watch?v=vBGiFtb8Rpw) |  |
+| 040200 | No Copyright Sounds | Itro & Tobu | Cloud 9 | 04:35 | [VtKbiyyVZks](https://www.youtube.com/watch?v=VtKbiyyVZks) |  |
+| 040300 | No Copyright Sounds | Syn Cole | Gizmo | 03:11 | [pZzSq8WfsKo](https://www.youtube.com/watch?v=pZzSq8WfsKo) |  |
+| 040301 | No Copyright Sounds | Syn Cole | Feel Good | 03:01 | [q1ULJ92aldE](https://www.youtube.com/watch?v=q1ULJ92aldE) |  |
+| 050000 | Sound Cloud | Ikson | All Night | 03:04 | [ZBA7ZWy0reg](https://www.youtube.com/watch?v=ZBA7ZWy0reg) |  |
+| 050001 | Sound Cloud | Ikson | AnyWhere | 03:05 | [zwPhqU29rWQ](https://www.youtube.com/watch?v=zwPhqU29rWQ) |  |
+| 050002 | Sound Cloud | Ikson | Taste It | 02:23 | [U7gYY7MFoVY](https://www.youtube.com/watch?v=U7gYY7MFoVY) |  |
+| 050003 | Sound Cloud | Ikson | Libre | 02:09 | [hY9--4HrKRI](https://www.youtube.com/watch?v=hY9--4HrKRI) |  |
+| 050004 | Sound Cloud | Ikson | Yellow | 02:54 | [QuueV3_BZKM](https://www.youtube.com/watch?v=QuueV3_BZKM) |  |
+| 050005 | Sound Cloud | Ikson | Together | 03:03 | [hrNX6MxcEOg](https://www.youtube.com/watch?v=hrNX6MxcEOg) |  |
+| 050006 | Sound Cloud | Ikson | Sunny | 02:37 | [EbywYGogH6A](https://www.youtube.com/watch?v=EbywYGogH6A) |  |
+| 050007 | Sound Cloud | Ikson | Summer | 03:56 | [ediBvHnY8S0](https://www.youtube.com/watch?v=ediBvHnY8S0) |  |
+| 050100 | Sound Cloud | PIKASONIC | Eternity | 04:28 | [hyEgTVRV_ag](https://www.youtube.com/watch?v=hyEgTVRV_ag) |  |
+| 050101 | Sound Cloud | PIKASONIC | Myself | 04:31 | [Y1pYpEFCIxY](https://www.youtube.com/watch?v=Y1pYpEFCIxY) |  |
+| 050102 | Sound Cloud | PIKASONIC | Sky | 03:51 | [WOYZ1uvXxhw](https://www.youtube.com/watch?v=WOYZ1uvXxhw) |  |
+| 050200 | Sound Cloud | Shane Ivers | Spark of Inspiration | 02:46 | [1fqWEfdmQqI](https://www.youtube.com/watch?v=1fqWEfdmQqI) |  |
+| 050300 | Sound Cloud | SoundHills.com | Find Yourself | 02:18 | [1sKa0f_xttc](https://www.youtube.com/watch?v=1sKa0f_xttc) |  |
 
-- [Roa - Short Trip](https://www.youtube.com/watch?v=J4x_Gj4LoCU)
-- [Spence - Unstoppable](https://www.youtube.com/watch?v=qNny1NW80Jo)
-- [Unicorn Heads - Vital Whales](https://www.youtube.com/watch?v=9Gbzk-cA4sE)
-- [Unicorn Heads - URL Melt](https://www.youtube.com/watch?v=NjkOkkDMZBE)
-- [Nico Staf - Sunny Travel](https://www.youtube.com/watch?v=_kYsndcUeUk)
-- [ALBIS - New Land](https://www.youtube.com/watch?v=FHBbIjjOnsY)
-- [ALBIS - Vacation Uke](https://www.youtube.com/watch?v=LHWFPWK-f4I)
-- [Kevin Macleod - Jay Jay](https://www.youtube.com/watch?v=ixy_feo-L3k)
-- [Vibe Tracks - About That Oldie](https://www.youtube.com/watch?v=FqQJKeti-TE)
-- [Vibe Tracks - Alternative](https://www.youtube.com/watch?v=0eHo9lev7Ok)
-- [Vibe Tracks - Beat Your Competition](https://www.youtube.com/watch?v=bll5zsOGNKA)
-- [Vibe Tracks - Break You In](https://www.youtube.com/watch?v=CGd3zq_yio8)
-- [Vibe Tracks - Dutty](https://www.youtube.com/watch?v=YeHqPHl1114)
-- [Vibe Tracks - Greedy](https://www.youtube.com/watch?v=4p91vgd8tmU)
-- [Vibe Tracks - Staccato](https://www.youtube.com/watch?v=hTeJx-S0QQk)
-- [Vibe Tracks - Take You Home Tonight](https://www.youtube.com/watch?v=csxS_4NGgpA)
-- [Vibe Tracks - Universal](https://www.youtube.com/watch?v=b56V-KyT9XM)
-- [John Deley - Bumper Tag](https://www.youtube.com/watch?v=lnGhMo5ZQvA)
-- [John Deley - Blakey's Burnout](https://www.youtube.com/watch?v=0OqWEd_tr3o)
-- [Andrew Huang - Club](https://www.youtube.com/watch?v=GLSxpegS0MI)
-- [MK2 - Far Away](https://www.youtube.com/watch?v=Krw642HTCgw)
-
-## Vlog No Copyright Music｜Vlog No Copyright Background Music
-
-- [Fredji - Happy Life](https://www.youtube.com/watch?v=KzQiRABVARk)
-- [Tempo Fugit - Hello](https://www.youtube.com/watch?v=kD83YwiGCGI)
-- [Erik Lund - Tokyo Sunset](https://www.youtube.com/watch?v=-jpnNRB5eTU)
-- [Ehrling - You And Me](https://www.youtube.com/watch?v=8HJSl7AiJNg)
-- [Beau Walker - Joy](https://www.youtube.com/watch?v=yTsOk3jWeLs)
-- [MBB - Beach](https://www.youtube.com/watch?v=bfjxyOtpvlA)
-
-## Epidemic Sound
-
-- [waykap - Adore U](https://www.youtube.com/watch?v=dztzqxgaUD0)
-- [waykap - Adore U｜Instrumental Version](https://www.youtube.com/watch?v=gRblqiRda0M)
-- [ELFL - Digital Breath](https://www.youtube.com/watch?v=V4oGVE99VJk)
-
-## DOVA-SYNDROME
-
-- [田中芳典 - painted from memory～想いは調べにのって～](https://www.youtube.com/watch?v=q7li_BpCxKA)
-- [FLASH☆BEAT - The New World](https://www.youtube.com/watch?v=toCHE9oxtIk)
-- [brightwaltz - Outdoor Atmosphere](https://www.youtube.com/watch?v=vZfld2zTb0U)
-- [Khaim - May Not](https://www.youtube.com/watch?v=Y-yjzyPsu0I)
-- [かずち - バイバイハロー](https://www.youtube.com/watch?v=J120uD-rcnQ)
-- [まつもとたくや - 1114](https://www.youtube.com/watch?v=1EUsMfA1jik)
-
-## NCS
-
-- [Jim Yosef - Can't Wait](https://www.youtube.com/watch?v=MqUCDzom5Xw)
-- [Culture Code - Make Me Move](https://www.youtube.com/watch?v=vBGiFtb8Rpw)
-- [Itro & Tobu - Cloud 9](https://www.youtube.com/watch?v=VtKbiyyVZks)
-- [Syn Cole - Gizmo](https://www.youtube.com/watch?v=pZzSq8WfsKo)
-- [Syn Cole - Feel Good](https://www.youtube.com/watch?v=q1ULJ92aldE)
-
-## Others
-
-- [Ikson - Taste It](https://www.youtube.com/watch?v=U7gYY7MFoVY)
-- [Ikson - All Night](https://www.youtube.com/watch?v=ZBA7ZWy0reg)
-- [Ikson - Anywhere](https://www.youtube.com/watch?v=zwPhqU29rWQ)
-- [Ikson - Libre](https://www.youtube.com/watch?v=hY9--4HrKRI)
-- [Ikson - Yellow](https://www.youtube.com/watch?v=QuueV3_BZKM)
-- [Ikson - Together](https://www.youtube.com/watch?v=hrNX6MxcEOg)
-- [Ikson - Sunny](https://www.youtube.com/watch?v=EbywYGogH6A)
-- [Ikson - Summer](https://www.youtube.com/watch?v=ediBvHnY8S0)
-- [PIKASONIC - Eternity](https://www.youtube.com/watch?v=hyEgTVRV_ag)
-- [PIKASONIC - Myself](https://www.youtube.com/watch?v=Y1pYpEFCIxY)
-- [PIKASONIC - Sky](https://www.youtube.com/watch?v=WOYZ1uvXxhw)
-- [Shane Ivers - Spark Of Inspiration](https://www.youtube.com/watch?v=1fqWEfdmQqI)
-- [SoundHills.com - Find Yourself](https://www.youtube.com/watch?v=1sKa0f_xttc)
