@@ -1,6 +1,6 @@
 # BGM集
 
-| 管理番号 | レーベル | 作者 | 曲名 | 長さ | YouTube リンク | ライセンス |
+| 管理番号 | レーベル | 作曲者 | 曲名 | 長さ | YouTube リンク | ライセンス |
 |----|----|----|----|----|----|----|
 | 000000 | YouTube Audio Library | Roa | Short Trip | 04:03 | [J4x_Gj4LoCU](https://www.youtube.com/watch?v=J4x_Gj4LoCU) |  |
 | 000100 | YouTube Audio Library | Spence | Unstoppable | 03:03 | [qNny1NW80Jo](https://www.youtube.com/watch?v=qNny1NW80Jo) |  |
