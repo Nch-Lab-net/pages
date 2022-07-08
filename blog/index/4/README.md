@@ -19,7 +19,7 @@ $ \pi = \cfrac{l}{R} \fallingdotseq 3.1416 $
 では、円の定義はというと、「定点からの距離が同じ点の集まり」です  
 ここで、定点からの距離というのは半径です。つまり、円は半径によって定義されています
 
-<img src="./../../img/circle.png" alt="円の図" width="75%" border="4">パブリック・ドメイン, <a href="https://commons.wikimedia.org/w/index.php?curid=102465847">リンク</a>
+<img src="./../../img/circle.png" alt="円の図" width="40%" border="4">パブリック・ドメイン, <a href="https://commons.wikimedia.org/w/index.php?curid=102465847">リンク</a>
 
 
 ならば、円周率も半径で定義すべきじゃないの？　と思いませんか？
