@@ -19,8 +19,7 @@ $ \pi = \cfrac{l}{R} \fallingdotseq 3.1416 $
 では、円の定義はというと、「定点からの距離が同じ点の集まり」です  
 ここで、定点からの距離というのは半径です。つまり、円は半径によって定義されています
 
-<img src="./../../img/circle.png" alt="円の図" width="40%" border="4">パブリック・ドメイン, <a href="https://commons.wikimedia.org/w/index.php?curid=102465847">リンク</a>
-
+<div align="center"><img src="./../../img/circle.png" alt="円の図" width="40%" border="4">パブリック・ドメイン, <a href="https://commons.wikimedia.org/w/index.php?curid=102465847">リンク</a></div>
 
 ならば、円周率も半径で定義すべきじゃないの？　と思いませんか？
 
@@ -42,7 +41,7 @@ $ \int_{}^{} CV dV = \cfrac{1}{2} CV^{2} $
 $ \int_{}^{} LI dI = \cfrac{1}{2} LI^{2} $  
 $ \int_{}^{} 2 \pi r dr = \pi r^{2} $  
 
-これらを見て違和感を覚えませんか？　$ 2 \pi $お前何やねん、という風に思いません？
+これらを見て違和感を覚えませんか？　__2__ $ \pi $お前何やねん、という風に思いません？
 
 では、これを$ \tau $を使って書いてみましょう
 
@@ -54,43 +53,35 @@ $ \int_{}^{} \tau r dr = \cfrac{1}{2} \pi r^{2} $
 
 - 単振り子の周期の公式
 
-$ T = 2 \pi \sqrt{\cfrac{g}{l}} $  
-$ T = \tau \sqrt{\cfrac{g}{l}} $  
+$ T = 2 \pi \sqrt{\cfrac{g}{l}} = \tau \sqrt{\cfrac{g}{l}} $  
 
 - 単振動の周期の公式
 
-$ T = 2 \pi \sqrt{\cfrac{k}{m}} $  
-$ T = \tau \sqrt{\cfrac{k}{m}} $  
+$ T = 2 \pi \sqrt{\cfrac{k}{m}} = \tau \sqrt{\cfrac{k}{m}} $  
 
 - 半径rの円の円周の長さの公式
 
-$ l = 2 \pi r $  
-$ l = \tau r $  
+$ l = 2 \pi r = \tau r $  
 
 - 単位円の円周の長さの式
 
-$ l = 2 \pi $  
-$ l = \tau $  
+$ l = 2 \pi = \tau $  
 
 - 半径rの円の面積の公式
 
-$ S = \pi r^{2} $  
-$ S = \cfrac{1}{2} \tau r^2 $  
+$ S = \pi r^{2} = \cfrac{1}{2} \tau r^2 $  
 
 - 単位円の面積の式
 
-$ S = \pi $  
-$ S = \cfrac{1}{2} \tau $  
+$ S = \pi = \cfrac{1}{2} \tau $  
 
 - 各周波数の公式
 
-$ \omega = 2 \pi f $  
-$ \omega = \tau f $  
+$ \omega = 2 \pi f = \tau f $  
 
 - 並行電流が及ぼし合う力の式
 
-$ F = \cfrac{\mu I_{1} I_{2}}{2 \pi r} l $  
-$ F = \cfrac{\mu I_{1} I_{2}}{\tau r} l $  
+$ F = \cfrac{\mu I_{1} I_{2}}{2 \pi r} l = \cfrac{\mu I_{1} I_{2}}{\tau r} l $  
 
 これらを見比べて、$ \pi $の利点はせいぜい単位円の面積が一文字ですむことくらいでしょう。その他はどれを取っても$ \tau $の方がスッキリしていますよね
 
@@ -100,6 +91,36 @@ $ F = \cfrac{\mu I_{1} I_{2}}{\tau r} l $
 ## 理由③｜三角関数との親和性
 
 僕はArduinoなどで正弦波の配列を作ることが多いんですが、その際$ \pi $に苦しめられた経験があります。その時、`#define Tau (2 * PI)`として代わりに$ \tau $を使った結果割とすんなり書けました
+
+これはなぜか、やはり係数の2があるからでしょう
+
+三角関数を使って、N分割のsinの配列を作るときは以下のようにすると思います
+
+```cpp
+float SIN[N];
+
+for(uint16_t i = 0; i < N; i++) {
+  SIN[i] = sin((i / N) * 2 * PI);
+}
+```
+
+出ましたね、招かれざる客 __2__$ \pi $
+
+もう書きませんが、この`2 * PI`を`Tau`に置き換えるとわかりやすくなります。何故なら単位円の円周の長さが$ \tau $で、それをN分割し、iをインクリメントしていくことで位相を進める
+
+また、複素数を使った1のn乗根の解を計算する場合でも同様に考えることができます
+
+$ Z = cos \theta + i sin \theta $  
+$ \theta = \cfrac{2 \pi k}{n} , k = 1, 2, ... , n $
+
+書き換えると、
+
+$ Z = cos \theta + i sin \theta $  
+$ \theta = \cfrac{\tau k}{n} , k = 1, 2, ... , n $
+
+やはりシンプルでわかりやすいですね。円周をn分割していることが直感的にわかります
+
+## どうしてこうなってしまったか
 
 
 
