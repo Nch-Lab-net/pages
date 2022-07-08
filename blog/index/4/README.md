@@ -1,3 +1,6 @@
+<script type="text/x-mathjax-config">MathJax.Hub.Config({tex2jax:{inlineMath:[['\$','\$'],['\\(','\\)']],processEscapes:true},CommonHTML: {matchFontHeight:false}});</script>
+<script type="text/javascript" async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-MML-AM_CHTML"></script>
+
 # πという邪悪な存在
 
 <h2><div align="right">2022/07/10</div></h2>
@@ -166,7 +169,7 @@ $ 2 × 3 × 5 × 7 × 11 × 13 × 17 × ... $のように素数を無限に掛�
 
 かなり長くなりましたが、今日はここまで
 
-（GitHub Markdownで書いてるんですが、この文は169行目だったりします・・・長すぎ）
+（GitHub Markdownで書いてるんですが、この文は172行目だったりします・・・長すぎ）
 
 <!-- 記事ここまで -->
 
