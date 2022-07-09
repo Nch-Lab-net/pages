@@ -40,11 +40,9 @@ $ \pi $の定義は、「円周/直径」。これは皆さんご存知だと思
 
 突然ですが、以下の3つの不定積分の式を見て下さい（積分定数は省略しています）
 
-<div align="center">
-$ \int_{}^{} CV dV = \cfrac{1}{2} CV^{2} $  
-$ \int_{}^{} LI dI = \cfrac{1}{2} LI^{2} $  
-$ \int_{}^{} 2 \pi r dr = \pi r^{2} $
-</div>
+<div align="center">$ \int_{}^{} CV dV = \cfrac{1}{2} CV^{2} $</div>  
+<div align="center">$ \int_{}^{} LI dI = \cfrac{1}{2} LI^{2} $</div>  
+<div align="center">$ \int_{}^{} 2 \pi r dr = \pi r^{2} $</div>
 
 これらを見て違和感を覚えませんか？　__2__ $ \pi $お前何やねん、という風に思いません？
 
