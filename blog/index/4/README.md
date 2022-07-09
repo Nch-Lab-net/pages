@@ -48,7 +48,7 @@ $ \pi $の定義は、「円周/直径」。これは皆さんご存知だと思
 
 では、これを$ \tau $を使って書いてみましょう
 
-<div align="center">$ \int_{}^{} \tau r dr = \cfrac{1}{2} \pi r^{2} $</div>
+<div align="center">$ \int_{}^{} \tau r dr = \cfrac{1}{2} \tau r^{2} $</div>
 
 同じ形になりました。実にシンプルで素晴らしい
 
@@ -120,32 +120,32 @@ for(uint16_t i = 0; i < N; i++) {
 
 また、複素数を使った1のn乗根の解を計算する場合でも同様に考えることができます
 
-<div align="center">$ Z = cos \theta + i sin \theta $</div>  
+<div align="center">$ Z = \cos \theta + i \sin \theta $</div>  
 <div align="center">$ \theta = \cfrac{2 \pi k}{n} , k = 1, 2, ... , n $</div>
 
 書き換えると、
 
-<div align="center">$ Z = cos \theta + i sin \theta $</div>  
+<div align="center">$ Z = \cos \theta + i \sin \theta $</div>  
 <div align="center">$ \theta = \cfrac{\tau k}{n} , k = 1, 2, ... , n $</div>
 
 やはりシンプルでわかりやすいですね。円周をn分割していることが直感的にわかります
 
 また、オイラーの公式として有名な以下の式でも$ \tau $を使うメリットが出てきます
 
-<div align="center">$ e^{i \theta} = cos \theta + i sin \theta $</div>
+<div align="center">$ e^{i \theta} = \cos \theta + i \sin \theta $</div>
 
 この式の$ \theta $に$ \pi $を代入すると、このようになります
 
-<div align="center">$ e^{i \pi} = cos \pi + i sin \pi $</div>  
-<div align="center">$ cos \pi = -1 $</div>  
-<div align="center">$ sin \pi = 0 $</div>  
+<div align="center">$ e^{i \pi} = \cos \pi + i \sin \pi $</div>  
+<div align="center">$ \cos \pi = -1 $</div>  
+<div align="center">$ \sin \pi = 0 $</div>  
 <div align="center">$ e^{i \pi} = -1 $</div>
 
 これはこれで美しくはありますが、$ \theta = \tau $で計算してみましょう
 
-<div align="center">$ e^{i \tau} = cos \tau + i sin \tau $</div>  
-<div align="center">$ cos \tau = 1 $</div>  
-<div align="center">$ sin \tau = 0 $</div>  
+<div align="center">$ e^{i \tau} = \cos \tau + i \sin \tau $</div>  
+<div align="center">$ \cos \tau = 1 $</div>  
+<div align="center">$ \sin \tau = 0 $</div>  
 <div align="center">$ e^{i \tau} = 1 $</div>
 
 イコール1になりました。こっちの方が美しいですね
