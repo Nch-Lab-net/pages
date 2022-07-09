@@ -39,4 +39,4 @@
 - <a href="https://nch-mosfet.booth.pm/" target="_blank" rel="noopener noreferrer">Booth</a>
 - <a href="https://github.com/Nch-MOSFET" target="_blank" rel="noopener noreferrer">GitHub</a>
 - <a href="https://qiita.com/Nch_MOSFET" target="_blank" rel="noopener noreferrer">Qiita</a>
-- <a href="https://discord.gg/r3HeMB2B6a" target="_blank" rel="noopener noreferrer">Discordサーバ</a>
+- <a href="https://pages.nchlab.net/discord" target="_blank" rel="noopener noreferrer">Discordサーバ</a>
