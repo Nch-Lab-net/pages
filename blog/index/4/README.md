@@ -17,7 +17,7 @@
 
 $ \pi $の定義は、「円周/直径」。これは皆さんご存知だと思います
 
-$ \pi = \cfrac{l}{R} \fallingdotseq 3.1416 $
+<div align="center">$ \pi = \cfrac{l}{R} \fallingdotseq 3.1416 $</div>
 
 では、円の定義はというと、「平面上で、定点からの距離が同じ点の集まり」です  
 ここで、定点からの距離というのは半径です。つまり、円は半径によって定義されています
@@ -28,11 +28,11 @@ $ \pi = \cfrac{l}{R} \fallingdotseq 3.1416 $
 
 ちなみにこの場合、$ \pi $の代わりに$ \tau $を使うことが多いそうです。名前も同じ円周率だとごちゃごちゃになるので、「円周比」という呼び方を提案したい
 
-$ \tau = \cfrac{l}{r} \fallingdotseq 6.2832 $
+<div align="center">$ \tau = \cfrac{l}{r} \fallingdotseq 6.2832 $</div>
 
 また、$ \pi $と$ \tau $の関係性は以下の通り
 
-$ \tau = 2 \pi $
+<div align="center">$ \tau = 2 \pi $</div>
 
 定義の中で分母が半分になっているので、まあ当然
 
@@ -40,15 +40,17 @@ $ \tau = 2 \pi $
 
 突然ですが、以下の3つの不定積分の式を見て下さい（積分定数は省略しています）
 
+<div align="center">
 $ \int_{}^{} CV dV = \cfrac{1}{2} CV^{2} $  
 $ \int_{}^{} LI dI = \cfrac{1}{2} LI^{2} $  
-$ \int_{}^{} 2 \pi r dr = \pi r^{2} $  
+$ \int_{}^{} 2 \pi r dr = \pi r^{2} $
+</div>
 
 これらを見て違和感を覚えませんか？　__2__ $ \pi $お前何やねん、という風に思いません？
 
 では、これを$ \tau $を使って書いてみましょう
 
-$ \int_{}^{} \tau r dr = \cfrac{1}{2} \pi r^{2} $  
+<div align="center">$ \int_{}^{} \tau r dr = \cfrac{1}{2} \pi r^{2} $</div>
 
 同じ形になりました。実にシンプルで素晴らしい
 
@@ -56,35 +58,35 @@ $ \int_{}^{} \tau r dr = \cfrac{1}{2} \pi r^{2} $
 
 - 単振り子の周期の公式
 
-$ T = 2 \pi \sqrt{\cfrac{g}{l}} = \tau \sqrt{\cfrac{g}{l}} $  
+<div align="center">$ T = 2 \pi \sqrt{\cfrac{g}{l}} = \tau \sqrt{\cfrac{g}{l}} $</div>
 
 - 単振動の周期の公式
 
-$ T = 2 \pi \sqrt{\cfrac{k}{m}} = \tau \sqrt{\cfrac{k}{m}} $  
+<div align="center">$ T = 2 \pi \sqrt{\cfrac{k}{m}} = \tau \sqrt{\cfrac{k}{m}} $</div>
 
 - 半径rの円の円周の長さの公式
 
-$ l = 2 \pi r = \tau r $  
+<div align="center">$ l = 2 \pi r = \tau r $</div>
 
 - 単位円の円周の長さの式
 
-$ l = 2 \pi = \tau $  
+<div align="center">$ l = 2 \pi = \tau $</div>
 
 - 半径rの円の面積の公式
 
-$ S = \pi r^{2} = \cfrac{1}{2} \tau r^2 $  
+<div align="center">$ S = \pi r^{2} = \cfrac{1}{2} \tau r^2 $</div>
 
 - 単位円の面積の式
 
-$ S = \pi = \cfrac{1}{2} \tau $  
+<div align="center">$ S = \pi = \cfrac{1}{2} \tau $</div>
 
 - 各周波数の公式
 
-$ \omega = 2 \pi f = \tau f $  
+<div align="center">$ \omega = 2 \pi f = \tau f $</div>
 
 - 並行電流が及ぼし合う力の式
 
-$ F = \cfrac{\mu I_{1} I_{2}}{2 \pi r} l = \cfrac{\mu I_{1} I_{2}}{\tau r} l $  
+<div align="center">$ F = \cfrac{\mu I_{1} I_{2}}{2 \pi r} l = \cfrac{\mu I_{1} I_{2}}{\tau r} l $</div>
 
 これらを見比べて、$ \pi $の利点はせいぜい単位円の面積が一文字ですむことくらいでしょう。その他はどれを取っても$ \tau $の方がスッキリしていますよね
 
@@ -120,33 +122,33 @@ for(uint16_t i = 0; i < N; i++) {
 
 また、複素数を使った1のn乗根の解を計算する場合でも同様に考えることができます
 
-$ Z = cos \theta + i sin \theta $  
-$ \theta = \cfrac{2 \pi k}{n} , k = 1, 2, ... , n $
+<div align="center">$ Z = cos \theta + i sin \theta $</div>  
+<div align="center">$ \theta = \cfrac{2 \pi k}{n} , k = 1, 2, ... , n $</div>
 
 書き換えると、
 
-$ Z = cos \theta + i sin \theta $  
-$ \theta = \cfrac{\tau k}{n} , k = 1, 2, ... , n $
+<div align="center">$ Z = cos \theta + i sin \theta $</div>  
+<div align="center">$ \theta = \cfrac{\tau k}{n} , k = 1, 2, ... , n $</div>
 
 やはりシンプルでわかりやすいですね。円周をn分割していることが直感的にわかります
 
 また、オイラーの公式として有名な以下の式でも$ \tau $を使うメリットが出てきます
 
-$ e^{i \theta} = cos \theta + i sin \theta $
+<div align="center">$ e^{i \theta} = cos \theta + i sin \theta $</div>
 
 この式の$ \theta $に$ \pi $を代入すると、このようになります
 
-$ e^{i \pi} = cos \pi + i sin \pi $  
-$ cos \pi = -1 $  
-$ sin \pi = o $  
-$ e^{i \pi} = -1 $  
+<div align="center">$ e^{i \pi} = cos \pi + i sin \pi $</div>  
+<div align="center">$ cos \pi = -1 $</div>  
+<div align="center">$ sin \pi = 0 $</div>  
+<div align="center">$ e^{i \pi} = -1 $</div>
 
 これはこれで美しくはありますが、$ \theta = \tau $で計算してみましょう
 
-$ e^{i \tau} = cos \tau + i sin \tau $  
-$ cos \tau = 1 $  
-$ sin \tau = o $  
-$ e^{i \tau} = 1 $  
+<div align="center">$ e^{i \tau} = cos \tau + i sin \tau $</div>  
+<div align="center">$ cos \tau = 1 $</div>  
+<div align="center">$ sin \tau = 0 $</div>  
+<div align="center">$ e^{i \tau} = 1 $</div>
 
 イコール1になりました。こっちの方が美しいですね
 
