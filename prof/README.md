@@ -18,7 +18,37 @@ Arduinoを主に扱っています。Arduinoに関する理解を深めるため
 
 代表作：Digisparkベースのプログラマブルキーボード  
 [Booth](https://nch-mosfet.booth.pm/items/3342532)にて販売しています。お陰様で総販売数10個到達しました  
-詳細に関しての解説動画を今後公開する予定です。しばらくお待ち下さい
+解説動画ございます。質問等ございましたらコメント欄、Twitterまでどうぞ
+
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/VGV5Y5Z--bU" title="DigiKeyboardのファームウェア更新方法説明" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## 遍歴
+
+**2017年**  
+・IchigoJamに出会う  
+・BASIC言語を触る
+
+**2019年**  
+・初めてはんだごてを使ってキットを組む  
+・LEDをトランジスタで駆動させる回路を学ぶ  
+・自分用のIchigoJamを入手する（今までは借り物）
+
+**2020年**  
+・Arduinoに出会う  
+・DCモータの回転数制御に成功する（オープンループ）
+
+**2021年**  
+・Twitterを始める  
+・1台目のインバータ回路が完成する　　
+・SH7216ボードを入手する  
+・Webサーバの自宅ホスティングを開始する（後にGitHub Pagesに移行）
+・ESP32でのドローン操作に成功する  
+・自作キーボードの販売を開始する
+
+**2022年**  
+・200V三相誘導モータを入手する
+・Raspberry Pi Picoを入手する  
+・YouTubeアカウントを作成する
 
 ## 関連リンク等
 
