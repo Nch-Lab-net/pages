@@ -14,3 +14,4 @@
 [\#7 Twitterについて](https://pages.nchlab.net/blog/index/7)  
 [\#8 良い工具で、良い工作を](https://pages.nchlab.net/blog/index/8)  
 [\#9 新しいスマホを買ってみた](https://pages.nchlab.net/blog/index/9)  
+[\#10 やっとインバータが完成しました](https://pages.nchlab.net/blog/index/10)  
