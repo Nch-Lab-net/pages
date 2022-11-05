@@ -17,10 +17,8 @@ Arduinoを主に扱っています。Arduinoに関する理解を深めるため
 その他様々なことをまとめたドキュメントを随時作成しています
 
 代表作：Digisparkベースのプログラマブルキーボード  
-[Booth](https://nch-mosfet.booth.pm/items/3342532)にて販売しています。お陰様で総販売数10個到達しました  
-解説動画ございます。質問等ございましたらコメント欄、Twitterまでどうぞ
-
-<iframe width="640" height="360" src="https://www.youtube.com/embed/VGV5Y5Z--bU" title="DigiKeyboardのファームウェア更新方法説明" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[Booth](https://nch-mosfet.booth.pm/items/3342532)にて販売しています  
+質問等ございましたらTwitterのDMまでどうぞ
 
 ## 遍歴
 
