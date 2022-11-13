@@ -16,3 +16,4 @@
 [\#9 新しいスマホを買ってみた](https://pages.nchlab.net/blog/index/9)  
 [\#10 やっとインバータが完成しました](https://pages.nchlab.net/blog/index/10)  
 [\#11 詰み部品の消化がてらRasPicoを触る](https://pages.nchlab.net/blog/index/11)  
+[\#12 電子の森ラジオにお呼びいただきました](https://pages.nchlab.net/blog/index/12)  
