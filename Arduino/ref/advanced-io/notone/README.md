@@ -4,7 +4,7 @@
 
 # 説明
 
-`tone()`によって出力されている矩形波の生成を停止します。トーンが生成されていない場合は何も起こりません
+[tone()](./../tone)によって出力されている矩形波の生成を停止します。トーンが生成されていない場合は何も起こりません
 
 # 構文
 
@@ -26,5 +26,5 @@
 
 このページは[Arduino公式のページ](https://www.arduino.cc/reference/en/language/functions/advanced-io/notone/)を翻訳したものです（一部意訳を含みます）
 
-[一覧に戻る](http://pages.nchlab.net/Arduino/ref/)  
-[トップページに戻る](http://pages.nchlab.net/)
+[一覧に戻る](https://pages.nchlab.net/Arduino/ref/)  
+[トップページに戻る](https://pages.nchlab.net/)

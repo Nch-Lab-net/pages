@@ -26,11 +26,22 @@ Arduinoの各種関数の日本語リファレンス
 ## **高度な入出力**
 
 [tone()](./advanced-io/tone)  
-[noTone()](.advance-io/notone)  
+[noTone()](./advanced-io/notone)  
+[pulseIn()](./advanced-io/pulseIn)  
+[pulseInLong()](./advanced-io/pulseInLong)  
+[shiftIn()](./advanced-io/shiftIn)  
+[shiftOut()](./advanced-io/shiftOut)  
+
+## **時間**
+
+[delay()](./time/delay)  
+[delayMicroseconds()](./time/delayMicroseconds)  
+[micros()](./time/micros)  
+[millis()](./time/millis)  
 
 # 出典
 
 このページは[Arduino公式のページ](https://arduino.cc/reference/en/)を翻訳したものです（一部意訳を含みます）
 
-[一覧に戻る](http://pages.nchlab.net/Arduino/ref/)  
-[トップページに戻る](http://pages.nchlab.net/)
+[一覧に戻る](https://pages.nchlab.net/Arduino/ref/)  
+[トップページに戻る](https://pages.nchlab.net/)

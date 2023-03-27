@@ -66,5 +66,5 @@ void loop() {
 
 このページは[Arduino公式のページ]()を翻訳したものです（一部意訳を含みます）
 
-[一覧に戻る](http://pages.nchlab.net/Arduino/ref/)  
-[トップページに戻る](http://pages.nchlab.net/)
+[一覧に戻る](https://pages.nchlab.net/Arduino/ref/)  
+[トップページに戻る](https://pages.nchlab.net/)

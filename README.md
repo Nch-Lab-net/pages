@@ -1,24 +1,42 @@
 # Welcome to Nch-Lab's Website!
 
-ここは[Nch MOSFET](https://twitter.com/Nch_MOSFET)のWebサイトです。ただし仮
+ここは<a href="https://twitter.com/Nch_MOSFET" target="_blank" rel="noopener noreferrer">Nch MOSFET</a>のWebサイトです
 
 # サイトマップ
 
-- [Arduino](./Arduino)  
-Arduino関係のページ
-  - [ref](./Arduino/ref)  
-  Arduino公式リファレンスを翻訳しています。このディレクトリ配下に各種関数に関するドキュメントを掲載します
-- [プロフィール](./prof)  
-  僕のプロフィールです。ご査収ください
-- [project](./project)  
-  僕の制作物やそれに関することを色々まとめています。随時追加
-  - [keyboard](./project/keyboard)  
-    自作キーボードに関するお話
+すべて別タブで開きます  
+
+[**pages.nchlab.net**](https://pages.nchlab.net)  
+- <a href="https://pages.nchlab.net/Arduino" target="_blank" rel="noopener noreferrer">Arduino関連</a>  
+- <a href="https://pages.nchlab.net/Arduino/ref" target="_blank" rel="noopener noreferrer">Arduino 日本語リファレンス（現在整備中）</a>  
+- <a href="https://pages.nchlab.net/prof" target="_blank" rel="noopener noreferrer">プロフィール</a>  
+- <a href="https://pages.nchlab.net/project" target="_blank" rel="noopener noreferrer">個人開発の製品に関するあれこれ</a>  
+- <a href="https://pages.nchlab.net/project/keyboard" target="_blank" rel="noopener noreferrer">↑の中でも特にキーボード関連はこちら</a>  
+- <a href="https://pages.nchlab.net/anounce" target="_blank" rel="noopener noreferrer">お知らせ</a>  
+- <a href="https://pages.nchlab.net/blog/index" target="_blank" rel="noopener noreferrer">ブログ｜日記</a>  
+
+[**docs.nchlab.net**](https://docs.nchlab.net)  
+- <a href="https://docs.nchlab.net/ref" target="_blank" rel="noopener noreferrer">Arduino 日本語リファレンス</a>  
+　[refブランチ](https://github.com/Nch-Lab/docs/tree/ref/Arduino/ref)でページ作成中  
+- <a href="https://docs.nchlab.net/digispark/tips" target="_blank" rel="noopener noreferrer">Digispark関連の覚書</a>  
+
+<!-- コピペ用 -->
+<!--
+┣ ┠ ┝ ├
+┫ ┨ ┥ ┤ 
+│ ┃
+─ ━
+┌ ┏ ┓ ┐
+└ ┗ ┛ ┘
+-->
 
 # 外部リンク
 
-- [Twitter](https://twitter.com/Nch_MOSFET)
-- [YouTube](https://www.youtube.com/channel/UCHh3sU1-ILivTzyj8Z14X7w)
-- [Booth](https://nch-mosfet.booth.pm/)
-- [GitHub](https://github.com/Nch-MOSFET)
-- [Qiita](https://qiita.com/Nch_MOSFET)
+すべて別タブで開きます
+
+- <a href="https://twitter.com/Nch_MOSFET" target="_blank" rel="noopener noreferrer">Twitter</a>
+- <a href="https://www.youtube.com/channel/UCHh3sU1-ILivTzyj8Z14X7w" target="_blank" rel="noopener noreferrer">YouTube</a>
+- <a href="https://nch-mosfet.booth.pm/" target="_blank" rel="noopener noreferrer">Booth</a>
+- <a href="https://github.com/Nch-MOSFET" target="_blank" rel="noopener noreferrer">GitHub</a>
+- <a href="https://qiita.com/Nch_MOSFET" target="_blank" rel="noopener noreferrer">Qiita</a>
+- <a href="https://pages.nchlab.net/discord" target="_blank" rel="noopener noreferrer">Discordサーバ</a>
