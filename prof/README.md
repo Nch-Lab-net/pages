@@ -2,7 +2,7 @@
 
 ## おなまえ
 
-李久と申します。[Twitter](https://twitter.com/Nch_MOSFET)のアカウント名からえぬちゃんと呼ばれています
+李久と申します。[Twitter](https://twitter.com/53175DDD) のアカウント名からえぬちゃんと呼ばれています
 
 ## 得意分野
 
