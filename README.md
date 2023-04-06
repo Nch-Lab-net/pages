@@ -13,7 +13,7 @@
 - <a href="https://pages.nchlab.net/project" target="_blank" rel="noopener noreferrer">個人開発の製品に関するあれこれ</a>  
 - <a href="https://pages.nchlab.net/project/keyboard" target="_blank" rel="noopener noreferrer">↑の中でも特にキーボード関連はこちら</a>  
 - <a href="https://pages.nchlab.net/anounce" target="_blank" rel="noopener noreferrer">お知らせ</a>  
-- <a href="https://pages.nchlab.net/blog/index" target="_blank" rel="noopener noreferrer">ブログ｜日記</a>  
+- <a href="https://53175ddd.hatenadiary.com/" target="_blank" rel="noopener noreferrer">ブログ｜日記</a>  
 
 [**docs.nchlab.net**](https://docs.nchlab.net)  
 - <a href="https://docs.nchlab.net/ref" target="_blank" rel="noopener noreferrer">Arduino 日本語リファレンス</a>  
