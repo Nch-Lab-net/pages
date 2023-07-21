@@ -19,6 +19,9 @@
 　[refブランチ](https://github.com/Nch-Lab/docs/tree/ref/Arduino/ref)でページ作成中
 - <a href="https://docs.nchlab.net/digispark/tips" target="_blank" rel="noopener noreferrer">Digispark関連の覚書</a>
 
+[**circle.nchlab.net**](https://circle.nchlab.net)
+- <a href="https://cirlce.nchlab.net/" target="_blank" rel="noopener noreferrer">サークル専用サイトトップページ</a>
+  - <a href="https://circle.nchlab.net/C102" target="_blank" rel="noopener noreferrer">コミックマーケット C102 特設サイト</a>
 <!-- コピペ用 -->
 <!--
 ┣ ┠ ┝ ├
