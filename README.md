@@ -39,7 +39,7 @@
 - <a href="https://twitter.com/Nch_MOSFET" target="_blank" rel="noopener noreferrer">Twitter</a>
 - <a href="https://www.youtube.com/channel/UCHh3sU1-ILivTzyj8Z14X7w" target="_blank" rel="noopener noreferrer">YouTube</a>
 - <a href="https://nch-mosfet.booth.pm/" target="_blank" rel="noopener noreferrer">Booth</a>
-- <a href="https://github.com/Nch-MOSFET" target="_blank" rel="noopener noreferrer">GitHub</a>
+- <a href="https://github.com/53175ddd" target="_blank" rel="noopener noreferrer">GitHub</a>
 - <a href="https://qiita.com/Nch_MOSFET" target="_blank" rel="noopener noreferrer">Qiita</a>
 - <a href="https://pages.nchlab.net/discord" target="_blank" rel="noopener noreferrer">Discord サーバ</a>
 - <a href="https://53175ddd.hatenadiary.com/" target="_blank" rel="noopener noreferrer">ブログ｜日記</a>
