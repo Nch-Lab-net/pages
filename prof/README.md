@@ -2,7 +2,7 @@
 
 ## おなまえ
 
-李久と申します。[Twitter](https://twitter.com/53175DDD) のアカウント名から"えぬちゃん"と呼ばれていたりいなかったり
+李久と申します。主に [Twitter](https://twitter.com/53175DDD) で活動しています
 
 ## 専門分野
 

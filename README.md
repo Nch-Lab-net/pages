@@ -36,7 +36,7 @@
 
 すべて別タブで開きます
 
-- <a href="https://twitter.com/Nch_MOSFET" target="_blank" rel="noopener noreferrer">Twitter</a>
+- <a href="https://twitter.com/53175ddd" target="_blank" rel="noopener noreferrer">Twitter</a>
 - <a href="https://www.youtube.com/channel/UCHh3sU1-ILivTzyj8Z14X7w" target="_blank" rel="noopener noreferrer">YouTube</a>
 - <a href="https://nch-mosfet.booth.pm/" target="_blank" rel="noopener noreferrer">Booth</a>
 - <a href="https://github.com/53175ddd" target="_blank" rel="noopener noreferrer">GitHub</a>
